@@ -23,6 +23,7 @@ namespace MyFirstWpfApplication
         public MainWindow()
         {
             InitializeComponent();
+		System.Console.WriteLine("Hello!");
         }
     }
 }
